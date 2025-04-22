@@ -1,4 +1,3 @@
-# cse3150lab8samemile
 Lab 8 - Minting Non-Fungible Tokens and Xfer. 
 
 Samuel Emile
